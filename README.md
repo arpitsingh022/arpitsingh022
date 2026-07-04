@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋 I'm Arpit Singh
 
-<!--
-**arpitsingh022/arpitsingh022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ☁️ Cloud Engineer | AWS | DevOps | Linux
 
-Here are some ideas to get you started:
+I am a Cloud Engineer passionate about AWS, Linux, Infrastructure as Code, and DevOps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+- AWS
+- Linux
+- Terraform
+- Docker
+- Kubernetes
+- Git
+- GitHub Actions
+- Bash
+- Python
+- CI/CD
+
+## 📂 Projects
+
+- AWS VPC Design
+- EC2 + Apache Deployment
+- S3 Static Website Hosting
+- Terraform Infrastructure Automation
+- Docker Container Deployment
+- Kubernetes Labs
+
+## 📜 Certifications
+
+- AWS Certified Cloud Practitioner
+- Preparing for AZ-104
+
+## 📫 Connect with Me
+
+- LinkedIn: https://linkedin.com/in/arpit-singh
+- X: https://x.com/Arpitsingh022
+- Email: arpitsingh9612@gmail.com
