@@ -1,38 +1,87 @@
 # Hi 👋 I'm Arpit Singh
 
-## ☁️ Cloud Engineer | AWS | DevOps | Linux
+### Cloud Engineer | AWS & DevOps | Infrastructure Automation
 
-I am a Cloud Engineer passionate about AWS, Linux, Infrastructure as Code, and DevOps.
+Cloud Engineer focused on designing, deploying, and managing reliable cloud infrastructure using AWS, Linux, Infrastructure as Code, containers, and CI/CD practices.
 
-## 🚀 Skills
+Experienced in working across cloud compute, networking, storage, identity and access management, databases, monitoring, automation, and containerized application deployments, with a focus on scalable and maintainable infrastructure.
+
+---
+
+## 🛠️ Technical Skills
+
+### ☁️ Cloud & AWS
 
 - AWS
-- Linux
+- Amazon EC2
+- Amazon VPC
+- Amazon S3
+- AWS IAM
+- Amazon RDS
+- Amazon CloudWatch
+- Amazon SNS
+- Amazon SQS
+- AWS Certificate Manager (ACM)
+- Amazon ECS
+- AWS Lambda
+- Elastic Load Balancing (ELB)
+- Amazon EC2 Auto Scaling
+
+### ⚙️ DevOps & Infrastructure
+
 - Terraform
 - Docker
 - Kubernetes
 - Git
 - GitHub Actions
-- Bash
-- Python
 - CI/CD
+- Infrastructure as Code (IaC)
 
-## 📂 Projects
+### 🐧 Systems & Automation
 
-- AWS VPC Design
-- EC2 + Apache Deployment
+- Linux
+- Bash Scripting
+- Python
+
+---
+
+## 🚀 Cloud & DevOps Projects
+
+- AWS VPC Infrastructure & Network Architecture
+- EC2 Web Server Deployment & Configuration
 - S3 Static Website Hosting
-- Terraform Infrastructure Automation
-- Docker Container Deployment
-- Kubernetes Labs
+- Terraform-Based AWS Infrastructure Automation
+- Dockerized PHP & MySQL Application
+- Kubernetes Application Deployment
+- AWS CloudWatch Monitoring & Alerting
+- SNS → SQS Event-Driven Architecture
+- IAM Role-Based Access & AWS Resource Security
+
+---
 
 ## 📜 Certifications
 
 - AWS Certified Cloud Practitioner
-- Preparing for AZ-104
+- AWS Certified Solutions Architect – Associate
 
-## 📫 Connect with Me
+---
 
-- LinkedIn: https://linkedin.com/in/arpit-singh
-- X: https://x.com/Arpitsingh022
-- Email: arpitsingh9612@gmail.com
+## 🎯 Core Focus
+
+- Cloud Infrastructure
+- AWS Architecture
+- Infrastructure as Code
+- Cloud Networking
+- Linux Administration
+- Containerization
+- Kubernetes
+- CI/CD Automation
+- Cloud Monitoring
+- Infrastructure Security
+
+---
+
+## 🔗 Connect With Me
+
+- LinkedIn: [Arpit Singh](https://linkedin.com/in/arpit-singh)
+- GitHub: [arpitsingh022](https://github.com/arpitsingh022)
